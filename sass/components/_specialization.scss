@@ -74,7 +74,7 @@
     background-color: rgba(47, 48, 58, 0.8);
   }
 
-  .specionalization-text {
+  &-text {
     @include fon(500, 14px, 1.143, 0.03em);
     text-align: center;
     color: $white-color;
