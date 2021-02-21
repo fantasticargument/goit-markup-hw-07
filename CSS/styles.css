@@ -1,16 +1,16 @@
-:root {
-  --primary-text-color: #212121; /* колір основного тексту */
-  --accent-color: #2196f3; /* колір ховеру */
-  --accent-text-color: #757575; /* колір допоміжного тексту */
-  --background-color: #f5f4fa; /* колір допоміжного фону */
-  --white-color: #ffffff; /* білий */
+/*:root {
+  --primary-text-color: #212121;
+  --accent-color: #2196f3;
+  --accent-text-color: #757575;
+  --background-color: #f5f4fa;
+  --white-color: #ffffff;
   --background-primery: #2f303a;
   --social-networks: #afb1b8;
   --delay: 250ms;
   --function: cubic-bezier(0.4, 0, 0.2, 1);
-}
+}*/
 
-body {
+/*body {
   font-family: 'Roboto', sans-serif;
   background: #ffffff;
 }
@@ -21,17 +21,17 @@ a {
 
 ul {
   list-style: none;
-}
+}*/
 
-.title {
+/*.title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.167;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
-}
-
+}*/
+/*
 h1,
 h2,
 h3,
@@ -54,15 +54,15 @@ img {
 
 button {
   border: 0;
-}
+}*/
 
-.container {
+/*.container {
   max-width: 1200px;
   padding: 0 15px;
   margin: 0 auto;
-}
+}*/
 
-.visually-hidden {
+/*.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -74,7 +74,7 @@ button {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
+}*/
 /* ==================HEDER================== */
 .logo {
   font-family: 'Raleway', sans-serif;
@@ -879,7 +879,6 @@ label .footer-form-title {
 }
 
 .modal-check-contract {
-  
   font-weight: normal;
   font-size: 14px;
   line-height: 0.583;
