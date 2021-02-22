@@ -71,7 +71,8 @@ button {
 }
 
 .logo {
-  font-weight: bold;
+  font-family: Raleway;
+  font-weight: 500;
   font-size: 26px;
   line-height: 1.192;
   letter-spacing: 0.03em;
@@ -83,6 +84,7 @@ button {
 }
 
 .header .logo {
+  font-family: Raleway;
   margin-right: 93px;
 }
 
