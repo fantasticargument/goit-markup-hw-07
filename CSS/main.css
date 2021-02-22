@@ -218,8 +218,8 @@ button {
   margin-bottom: 95px;
   max-width: 1600px;
   height: 600px;
-  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("../images/Герой/hero.jpg");
-  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../images/Герой/hero.jpg");
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("/images/Герой/hero.jpg");
+  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("/images/Герой/hero.jpg");
   background-size: cover;
   background-position: center;
   margin: 0 auto;
@@ -471,7 +471,7 @@ label .footer-form-title {
 
 .checkbox-form-input:checked + .checkbox-form-label::before {
   background-color: #2196f3;
-  background-image: url(../images/галочка/Vector.svg);
+  background-image: url(/images/галочка/Vector.svg);
   background-repeat: no-repeat;
   background-size: contain;
   border: #2196f3;
