@@ -1,11 +1,12 @@
 .logo {
-  @include fon(bold, 26px, 1.192, 0.03em);
+  @include fon(500, 26px, 1.192, 0.03em);
   color: $accent-color;
 
   &-color-header {
     color: $primary-text-color;
   }
   .header & {
+    font-family: Raleway;
     margin-right: 93px;
   }
 }
